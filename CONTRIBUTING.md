@@ -1,4 +1,4 @@
-#How to contribute to repository
+# How to contribute to repository
 
 1. Clone the repository
 2. Pull the latest changes
