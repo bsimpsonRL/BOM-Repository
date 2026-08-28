@@ -25,4 +25,6 @@
 - Published first working version of repository, made public
 - Released and shared repository
 
-## REV 1.0 ???
+## REV 1.0 08-20-2026
+- BOM repository published
+- Made access public
